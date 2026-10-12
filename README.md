@@ -181,3 +181,10 @@ doxygen docs/Doxyfile
 ```
 
 ---
+
+## Autor
+
+* **Institución:** Universidad de Guanajuato (Campus Irapuato-Salamanca)
+* **Programa:** Licenciatura en Ingeniería de Datos e Inteligencia Artificial
+* **Materia:** Programación en Ingeniería
+* **Alumno:** Cecil Quimey Azuara Yáñez
